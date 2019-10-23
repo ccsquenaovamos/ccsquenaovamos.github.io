@@ -52,7 +52,7 @@ var get_vimeo_videoID = function( url ) {
 			loop: true,
 			showControls: true,
 			show_vimeo_logo: true,
-			stopMovieOnBlur: true,
+			stopMovieOnBlur: false,
 			realfullscreen: true,
 			mobileFallbackImage: null,
 			gaTrack: true,
